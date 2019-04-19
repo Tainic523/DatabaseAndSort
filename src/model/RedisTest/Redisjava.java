@@ -7,7 +7,6 @@ public class Redisjava {
     public static void main(String[] args) {
         //连接本地的 Redis 服务
         Jedis jedis = new Jedis("192.168.1.35");
-
         //查看服务是否运行
         System.out.println("服务正在运行: "+jedis.ping());
         System.out.println("连接成功");
@@ -15,7 +14,6 @@ public class Redisjava {
         jedis.set("runoobkey", "www.runoob.com");
         // 获取存储的数据并输出
         System.out.println("redis 存储的字符串为: "+ jedis.get("runoobkey"));
-
         //存储数据到列表中
         jedis.lpush("site-list", "Runoob");
         jedis.lpush("site-list", "Google");
@@ -25,7 +23,6 @@ public class Redisjava {
         for(int i=0; i<list.size(); i++) {
             System.out.println("列表项为: "+list.get(i));
         }
-
         // 获取数据并输出
         Set<String> keys = jedis.keys("*");
         Iterator<String> it=keys.iterator() ;
