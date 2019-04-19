@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11df0147-b8b3-4ed9-842f-106807e7e7e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/TreeNode.java" afterDir="false" />
-    </list>
+    <list default="true" id="11df0147-b8b3-4ed9-842f-106807e7e7e5" name="Default Changelist" comment="419" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="F:/xiangmu/mall/target/" />
     <ignored path="F:/xiangmu/mall/mall-demo/target/" />
@@ -192,19 +190,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+            <state relative-caret-position="-1988">
+              <caret line="81" column="61" lean-forward="true" selection-start-line="81" selection-start-column="61" selection-end-line="81" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/model/RedisTest/Redisjava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
+            <state relative-caret-position="160">
               <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -326,8 +324,8 @@
         <option value="$PROJECT_DIR$/src/ByteDance/solution1.java" />
         <option value="$PROJECT_DIR$/src/Tree/Main.java" />
         <option value="$PROJECT_DIR$/src/jd/Main.java" />
-        <option value="$PROJECT_DIR$/src/model/RedisTest/Redisjava.java" />
         <option value="$PROJECT_DIR$/src/Tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/model/RedisTest/Redisjava.java" />
       </list>
     </option>
   </component>
@@ -613,7 +611,7 @@
       <workItem from="1555468200788" duration="6001000" />
       <workItem from="1555656715130" duration="649000" />
       <workItem from="1555657482062" duration="303000" />
-      <workItem from="1555657989582" duration="659000" />
+      <workItem from="1555657989582" duration="1450000" />
     </task>
     <task id="LOCAL-00001" summary="419">
       <created>1555658165734</created>
@@ -631,7 +629,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227719000" />
+    <option name="totallyTimeSpent" value="228510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -643,10 +641,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5970874" visible="true" weight="0.23520486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5970874" visible="true" weight="0.23520486" />
       <window_info id="Structure" order="1" sideWeight="0.40389293" side_tool="true" weight="0.2094082" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1052,16 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/RedisTest/Redisjava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jd/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -1084,8 +1072,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+        <state relative-caret-position="-1988">
+          <caret line="81" column="61" lean-forward="true" selection-start-line="81" selection-start-column="61" selection-end-line="81" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/RedisTest/Redisjava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
