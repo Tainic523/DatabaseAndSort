@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 该文件代表的是user类和user表的映射关系，关于user表的sql语句等等写在这里 -->
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="model.Mybaits.Employees">
+    <!-- #{}代表占位符？，表示mybatis框架会接收输入的参数并赋值到sql语句当中
+          关于简单类型(int,String,date。long)可以使用value来代表参数名 -->
+    <select id="findUserById" parameterType="java.lang.Integer" resultType="model.Mybaits.Employees">
+  select * from Employees where id=#{id}
+ </select>
+
+    <!--&lt;!&ndash; ${}代表字符串拼接 &ndash;&gt;-->
+    <!--<select id="findUserByName" parameterType="java.lang.String" resultType="model.User" >-->
+  <!--select * from Employees where uname like '%${value}%'-->
+<!--</select>-->
+
+    <!--&lt;!&ndash; 插入的时候可以使用主键回填的策略，LAST_INSERT_ID()（前提是数据库表已经设置为主键自增） &ndash;&gt;-->
+    <!--<insert id="addUser" parameterType="model.User" >-->
+        <!--<selectKey order="AFTER" keyProperty="id" resultType="int">-->
+            <!--select LAST_INSERT_ID()-->
+        <!--</selectKey>-->
+        <!--insert into user.xml(uname,age) values (#{uname},#{age})-->
+    <!--</insert>-->
+
+    <!--<update id="updateUser" parameterType="model.User" >-->
+  <!--update user.xml set uname=#{uname},age=#{age} where id=#{id}-->
+<!--</update>-->
+
+    <!--<delete id="deleteUser" parameterType="int">-->
+  <!--delete from user.xml where id=#{value}-->
+<!--</delete>-->
+</mapper>
