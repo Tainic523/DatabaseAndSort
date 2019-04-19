@@ -87,7 +87,6 @@ import java.util.Stack;
             reafter(p.right,ans);
         }
         ans.add(p.val);
-
     }
      ArrayList<Integer> level(TreeNode root){ //层序非递归
         LinkedList<TreeNode> queue=new LinkedList<>();
@@ -103,7 +102,6 @@ import java.util.Stack;
             if (temp.right!=null){
                 queue.offer(temp.right);
             }
-
         }
         return ans;
     }
