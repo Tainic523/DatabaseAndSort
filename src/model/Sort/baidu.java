@@ -1,8 +1,6 @@
-package model.Solutions;
+package model.Sort;
 import java.util.*;
-import java.lang.reflect.Method;
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class baidu {
     public void me(){

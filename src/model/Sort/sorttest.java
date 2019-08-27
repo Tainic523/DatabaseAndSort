@@ -1,4 +1,4 @@
-package model.Solutions;
+package model.Sort;
 
 import java.util.Arrays;
 

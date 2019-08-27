@@ -81,5 +81,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="jedis-3.1.0" level="project" />
+    <orderEntry type="library" name="mybatis-3.5.0" level="project" />
   </component>
 </module>

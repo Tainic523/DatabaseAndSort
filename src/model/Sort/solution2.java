@@ -1,10 +1,8 @@
-package model.Solutions;
+package model.Sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
-
-import static java.lang.Integer.MAX_VALUE;
 
 public class solution2 {
     public ArrayList<Integer> GetLeastNumbers_Solution(int [] input, int k) {
