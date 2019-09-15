@@ -2,9 +2,7 @@ package jd;
 
 //import java.util.Scanner;
 
-import com.sun.jmx.snmp.SnmpUnsignedInt;
-
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
 
