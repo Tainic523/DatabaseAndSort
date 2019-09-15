@@ -34,15 +34,27 @@ public class Main {
 
         ArrayList<Integer> ans4=p1.level(p1);//层序非递归
         ArrayList<ArrayList<Integer>> ans=p1.FindAllPath(p1);
-        ArrayList<ArrayList<Integer> > ans6=p1.FindPath(p1,15);
+        ArrayList<ArrayList<Integer> > ans6=p1.FindPath(p1,13);
         int aaans=p1.maxPathSum(p1);
 //        Serialize serialize=new Serialize();
 //        String s=serialize.Serialize(p1);
 //        TreeNode t=serialize.Deserialize(s);
 //        ArrayList<Integer> aa=t.pre(t);
         ArrayList<ArrayList<Integer> > ans5=p1.Print(p1);
+        int depth = p1.maxDepth(p1);
 
-
+        Serialize serialize = new Serialize();
+       String sans= serialize.Serialize(p1);
+       TreeNode pp = serialize.Deserialize(sans);
+        ArrayList<Integer> de=p1.pre(p1);// 先序非递归
+        System.out.println(sans);
+        System.out.println("第三层的节点数为  " + p1.kLevelNumber(p1,3));
+        System.out.println("是否平衡二叉树  " + p1.isBalance(p1));
+        System.out.println("是否完全二叉树  "+p1.isComplete(p1));
+        System.out.println("是否相等二叉树   "+ p1.isSame(p1,p1));
+        System.out.println("是否镜像二叉树   "+ p1.isMirror(p1,p1));
+        System.out.println("最大深度为：  "+ depth);
+        System.out.println("最小深度为：  "+ p1.minDepth(p1));
         System.out.println("先序非递归:  "+ans1);
         System.out.println("先序递归:    "+ans11);
         System.out.println("中序非递归:  "+ans2);
@@ -56,6 +68,11 @@ public class Main {
         System.out.println("二叉树所有路径： "+ans);
         System.out.println("二叉树所有路径之和为15的路径 ： "+ans6);
         System.out.println("任意两个节点之间的路径之和的最大值为 "+aaans);
+        System.out.println(depth);
+
+        p1.Mirror(p1);
+        ArrayList<Integer> ansreverse=p1.pre(p1);
+        System.out.println(ansreverse);
 //        float ss= 9.7f;
 //        Float sss=new Float(9.7f);
 //        System.out.println(Float.floatToIntBits(sss));

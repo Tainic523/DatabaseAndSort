@@ -1,41 +1,41 @@
 package Tree;
 
 public class Serialize {
-    String Serialize(TreeNode root) {
+    public String Serialize(TreeNode root) {
         if(root == null)
             return "";
         StringBuilder sb = new StringBuilder();
-        Serialize2(root, sb);
+        SerializeHelper(root, sb);
         return sb.toString();
     }
 
-    void Serialize2(TreeNode root, StringBuilder sb) {
+    private void SerializeHelper(TreeNode root, StringBuilder sb) {
         if(root == null) {
             sb.append("#,");
             return;
         }
         sb.append(root.val);
         sb.append(',');
-        Serialize2(root.left, sb);
-        Serialize2(root.right, sb);
+        SerializeHelper(root.left, sb);
+        SerializeHelper(root.right, sb);
     }
 
-    int index = -1;
+    private int index = -1;
 
-    TreeNode Deserialize(String str) {
+   public TreeNode Deserialize(String str) {
         if(str.length() == 0)
             return null;
         String[] strs = str.split(",");
-        return Deserialize2(strs);
+        return DeserializeHelper(strs);
     }
 
-    TreeNode Deserialize2(String[] strs) {
+    private TreeNode DeserializeHelper(String[] strs) {
         index++;
         if(!strs[index].equals("#")) {
             TreeNode root = new TreeNode(0);
             root.val = Integer.parseInt(strs[index]);
-            root.left = Deserialize2(strs);
-            root.right = Deserialize2(strs);
+            root.left = DeserializeHelper(strs);
+            root.right = DeserializeHelper(strs);
             return root;
         }
         return null;

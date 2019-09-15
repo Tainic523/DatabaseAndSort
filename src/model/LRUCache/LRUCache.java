@@ -6,7 +6,8 @@ import java.util.Map;
 public class LRUCache<K, V> extends LinkedHashMap<K, V> {
     private static final int MAX_ENTRIES = 3;
 
-    protected boolean removeEldestEntry(Map.Entry eldest) {
+    @Override
+    protected boolean removeEldestEntry(Map.Entry<K, V> eldest) {
         return size() > MAX_ENTRIES;
     }
 

@@ -5,6 +5,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 public class ConsumerAndProducer {
     private static BlockingQueue<String> queue = new LinkedBlockingQueue<>(5);
+//    private static BlockingQueueExample queue = new BlockingQueueExample(5);
 
     private static class Producer extends Thread {
         @Override
@@ -24,7 +25,7 @@ public class ConsumerAndProducer {
         @Override
         public void run() {
             try {
-                String product=queue.take();
+                String product=(String) queue.take();
             }catch (InterruptedException e){
                 e.printStackTrace();
             }
