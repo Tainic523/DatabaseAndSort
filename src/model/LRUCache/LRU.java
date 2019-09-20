@@ -69,9 +69,9 @@ public class LRU<K, V> implements Iterable<K> {
     }
 
 
-    private void unlink(Node node) {
+    private void unlink(Node node) { // 删除节点
 
-        Node pre = node.pre;
+        Node pre = node.pre;  // 标记前后节点
         Node next = node.next;
 
         pre.next = next;
@@ -82,7 +82,7 @@ public class LRU<K, V> implements Iterable<K> {
     }
 
 
-    private void appendHead(Node node) {
+    private void appendHead(Node node) { // 加在头上
         Node next = head.next;
         node.next = next;
         next.pre = node;

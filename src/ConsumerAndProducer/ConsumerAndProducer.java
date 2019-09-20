@@ -4,9 +4,9 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 public class ConsumerAndProducer {
-    private static BlockingQueue<String> queue = new LinkedBlockingQueue<>(5);
+//    private static BlockingQueue<String> queue = new LinkedBlockingQueue<>(5);
 //    private static BlockingQueueExample queue = new BlockingQueueExample(5);
-
+    private static BlockingQueueImpl<String> queue = new BlockingQueueImpl<String>(5);
     private static class Producer extends Thread {
         @Override
         public void run() {

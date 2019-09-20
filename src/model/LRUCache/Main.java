@@ -5,7 +5,7 @@ import org.apache.ibatis.javassist.bytecode.Descriptor;
 import java.util.Iterator;
 import java.util.Map;
 
-public class mian {
+public class Main {
     public static void main(String[] args) {
         LRUCache<Integer, String> cache = new LRUCache<>();
         cache.put(1, "a");

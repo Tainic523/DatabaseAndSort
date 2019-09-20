@@ -36,7 +36,7 @@ public class AwaitSignalExample {
     public static void main(String[] args) {
         ExecutorService executorService = Executors.newCachedThreadPool();
         AwaitSignalExample example = new AwaitSignalExample();
-        executorService.execute(() -> example.after());
-        executorService.execute(() -> example.before());
+        executorService.execute(example::after);
+        executorService.execute(example::before);
     }
 }

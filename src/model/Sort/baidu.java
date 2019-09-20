@@ -17,32 +17,7 @@ public class baidu {
         }
         return array;
     }
-    static String fun1(String s1,String s2){ //寻找最长公共子串
-        char[] t1=s1.toCharArray();
-        char[] t2=s2.toCharArray();
-        int [][]temp=new int[t1.length][t2.length];
-        int length=0,index=0;
-        for (int i=0;i<t1.length;i++){
-            for (int j=0;j<t2.length;j++){
-                if (t1[i]==t2[j]){
-                    if (i>0 && j>0){
-                        temp[i][j]=temp[i-1][j-1]+1;
-                    }else{
-                        temp[i][j]=1;
-                    }
-                    if (temp[i][j]>length)
-                        length=temp[i][j];
-                    index=j;
-                }
-                else temp[i][j]=0;
-            }
-        }
-        StringBuilder t3=new StringBuilder();
-        for (int k=index-length+1;k<=index;k++){
-            t3.append(t2[k]);
-        }
-        return t3.toString();
-    }
+
     public void FindNumsAppearOnce(int [] array,int num1[] , int num2[]) {
         if(array.length==0) return;
         ArrayList<Integer> a1=new ArrayList<>();
