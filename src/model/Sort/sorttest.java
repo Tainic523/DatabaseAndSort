@@ -15,28 +15,25 @@ public class sorttest {
         }
         return a;
     }
-    static void fastsort(int[] a,int low,int high){ // 快速排序
-        if(low>high) return;
-        int index=a[low];
-        int i=low,j=high;
-        while(i<j){
-            while(i<j && a[j]>=index){
+    static void qsort(int[] arr,int start,int end){ // 快速排序
+        int pivot = arr[start];
+        int i = start;
+        int j = end;
+        while (i<j) {
+            while ((i<j)&&(arr[j]>pivot)) {
                 j--;
             }
-            while(i<j && a[i]<=index){
+            while ((i<j)&&(arr[i]<pivot)) {
                 i++;
             }
-            if (i<j){
-                int temp=a[i];
-                a[i]=a[j];
-                a[j]=temp;
+            if ((arr[i]==arr[j])&&(i<j)) {
+                i++;
+            } else {
+                swap(arr,i,j);
             }
-
         }
-        a[low]=a[j];
-        a[j]=index;
-        fastsort(a,low,j-1);
-        fastsort(a,j+1,high);
+        if (i-1>start) qsort(arr,start,i-1);
+        if (j+1<end) qsort(arr,j+1,end);
     }
 
     static int[] bininsertsort(int[] a){ // 折半排序
@@ -137,24 +134,23 @@ public class sorttest {
      * @param n 数组的长度
      */
     private static void heapAdjust(int[] arr, int i, int n) {
-        int child;
-        int father;
-        for (father = arr[i];  2*i+1< n; i = child) {
-            child = 2*i+1; // 获取到左孩子结点
-
-            // 如果左子树小于右子树，则需要比较右子树和父节点
-            if (child != n - 1 && arr[child] < arr[child + 1]) {
-                child++; // 序号增1，指向右子树
-            }
-
-            // 如果父节点小于孩子结点，则需要交换
-            if (father < arr[child]) {
-                arr[i] = arr[child];
-            } else {
-                break; // 大顶堆结构未被破坏，不需要调整
-            }
+        if (i>n){ // 递归出口
+            return;
         }
-        arr[i] = father;
+        int c1 = 2*i+1; // 左孩子
+        int c2 = 2*i+2; //  右孩子
+        int max = i;   // 找出三个最大的
+        if (c1<n && arr[c1]>arr[max]){
+            max = c1;
+        }
+        if (c2<n && arr[c2]>arr[max]){
+            max = c2;
+        }
+        if (i!=max){
+            swap(arr,i,max);
+            heapAdjust(arr,max,n);
+        }
+
     }
 
     // 交换元素位置

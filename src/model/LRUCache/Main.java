@@ -18,6 +18,15 @@ public class Main {
 
         }
 //        System.out.println(cache.keySet());
+        LRUImpl<Integer,String> Lru  = new LRUImpl<>(5);
+        Lru.put(1,"a");
+        Lru.put(2,"b");
+        Lru.put(3,"c");
+        Lru.put(4,"d");
+        Lru.put(5,"e");
+        Lru.get(1);
+        Lru.put(6,"f");
+        Lru.print();
 
         LRU<Integer,String> lru=new LRU<>(5);
         lru.put(1,"a");

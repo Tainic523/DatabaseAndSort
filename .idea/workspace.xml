@@ -1,67 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11df0147-b8b3-4ed9-842f-106807e7e7e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/BlockingQueueImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/ProducerAndConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution650.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/allSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuanfudao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuanfudao/Main1.java" afterDir="false" />
+    <list default="true" id="11df0147-b8b3-4ed9-842f-106807e7e7e5" name="Default Changelist" comment="915">
+      <change afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/LRUCache/LRUImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shangtang/solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/AwaitSignalExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/AwaitSignalExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/BlockingQueueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/BlockingQueueExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/ConsumerAndProducer$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/ConsumerAndProducer$Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/ConsumerAndProducer$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/ConsumerAndProducer$Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/ConsumerAndProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/ConsumerAndProducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/DeadLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/DeadLockTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/WaitNotifyCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/WaitNotifyCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/cyclicbarrierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/cyclicbarrierTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/CountDownlatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/CountDownlatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/Cyclicbarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/Cyclicbarrier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/MultiThread$Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/MultiThread$Thread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/MultiThread$Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/MultiThread$Thread2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/MultiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/MultiThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/SemaphoreExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/SemaphoreExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/ThreadExcutor$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/ThreadExcutor$Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/ThreadExcutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/ThreadExcutor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/ThreadPoolTest$MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/ThreadPoolTest$MyTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/ThreadPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/ThreadPoolTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/Threadimplrment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/ThreadPool/Threadimplrment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/Tree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/Tree/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/Tree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/Tree/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/Tree/Solutions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/Tree/Solutions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/Tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/Tree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/huawei/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/huawei/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/java_io/IoStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/java_io/IoStudy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/jd/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/jd/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/DynamicProxy/solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/DynamicProxy/solution3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/LRU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/LRU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/mian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Solutions/baidu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Solutions/solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Solutions/solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Solutions/sorttest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/xiecheng/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/xiecheng/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/xiecheng/solutionss.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/xiecheng/solutionss.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsumerAndProducer/AwaitSignalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/AwaitSignalExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsumerAndProducer/BlockingQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/BlockingQueueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsumerAndProducer/ConsumerAndProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsumerAndProducer/ConsumerAndProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/LRUCache/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/LRUCache/LRU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/LRUCache/mian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/LRUCache/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Sort/baidu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Sort/baidu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Sort/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Sort/stringSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Sort/sorttest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Sort/sorttest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/LRUCache/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/LRUCache/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/Sort/sorttest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Sort/sorttest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -236,14 +184,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="18173" />
+          <entry key="java" value="19344" />
           <entry key="sql" value="30" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18173" />
+          <entry key="JAVA" value="19344" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Scratch" value="30" />
         </counts>
@@ -252,7 +200,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="164" />
+          <entry key="java" value="174" />
           <entry key="md" value="1" />
           <entry key="properties" value="3" />
           <entry key="sql" value="2" />
@@ -263,7 +211,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="164" />
+          <entry key="JAVA" value="174" />
           <entry key="Markdown" value="1" />
           <entry key="Properties" value="3" />
           <entry key="Scratch" value="2" />
@@ -275,65 +223,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/BlockingQueueImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/model/Sort/sorttest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="500">
+              <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
               <folding>
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Serialize.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="474" column="1" lean-forward="true" selection-start-line="474" selection-start-column="1" selection-end-line="474" selection-end-column="1" />
-              <folding>
-                <element signature="e#2633#2643#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
+        <entry file="file://$PROJECT_DIR$/src/shangtang/solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <state relative-caret-position="112">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/JAVA/jdk/src.zip!/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/LRUCache/LRUImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/DeadLockTest.java">
+        <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Sort/stringSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -341,8 +297,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/LRUCache/LRU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="240">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -364,25 +320,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/ConsumerAndProducer.java">
+        <entry file="file://$PROJECT_DIR$/src/model/LRUCache/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="6" column="80" lean-forward="true" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
-              <folding>
-                <element signature="e#439#447#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/ProducerAndConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-              <folding>
-                <element signature="e#129#137#0" expanded="true" />
-              </folding>
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -404,10 +345,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HuaWeiplus/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/HuaWeiplus/solution3.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6c0548bd-69fd-4e3e-b34d-85975137e685/console.sql" />
-        <option value="$PROJECT_DIR$/src/function.java" />
         <option value="$PROJECT_DIR$/src/jd/solution.java" />
         <option value="$PROJECT_DIR$/src/Tree/Serialize.java" />
         <option value="$PROJECT_DIR$/src/ConsumerAndProducer/BlockingQueue.java" />
@@ -438,16 +375,13 @@
         <option value="$PROJECT_DIR$/src/leetcode/solution1.java" />
         <option value="$PROJECT_DIR$/src/leetcode/solition5.java" />
         <option value="$PROJECT_DIR$/src/model/LRUCache/mian.java" />
-        <option value="$PROJECT_DIR$/src/model/LRUCache/Main.java" />
         <option value="$PROJECT_DIR$/src/leetcode/solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/allSort.java" />
-        <option value="$PROJECT_DIR$/src/model/Sort/sorttest.java" />
         <option value="$PROJECT_DIR$/src/model/Sort/baidu.java" />
         <option value="$PROJECT_DIR$/src/model/Sort/solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode/solution5.java" />
         <option value="$PROJECT_DIR$/src/ConsumerAndProducer/AwaitSignalExample.java" />
         <option value="$PROJECT_DIR$/src/ConsumerAndProducer/BlockingQueueExample.java" />
-        <option value="$PROJECT_DIR$/src/model/Sort/stringSolution.java" />
         <option value="$PROJECT_DIR$/src/ConsumerAndProducer/ConsumerAndProducer.java" />
         <option value="$PROJECT_DIR$/src/ConsumerAndProducer/BlockingQueueImpl.java" />
         <option value="$PROJECT_DIR$/src/ConsumerAndProducer/ProducerAndConsumer.java" />
@@ -455,6 +389,13 @@
         <option value="$PROJECT_DIR$/src/Tree/Main.java" />
         <option value="$PROJECT_DIR$/src/Tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/src/model/LRUCache/Main.java" />
+        <option value="$PROJECT_DIR$/src/model/LRUCache/LRUImpl.java" />
+        <option value="$PROJECT_DIR$/src/ConsumerAndProducer/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/model/Sort/stringSolution.java" />
+        <option value="$PROJECT_DIR$/src/model/Sort/sorttest.java" />
+        <option value="$PROJECT_DIR$/src/ConsumerAndProducer/Main.java" />
+        <option value="$PROJECT_DIR$/src/shangtang/solution.java" />
       </list>
     </option>
   </component>
@@ -502,57 +443,6 @@
               <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
               <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ConsumerAndProducer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicProxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="LRUCache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadPool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DatabaseAndSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DatabaseAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="toutiao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -572,10 +462,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Has&#9;FILE&#9;jar://D:/JAVA/jdk/src.zip!/java/util/HashMap.java&#10;Concurre&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;TreeM&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Compar&#9;FILE&#9;jar://D:/JAVA/jdk/jre/lib/rt.jar!/java/util/Comparator.class&#10;Comparable&#9;PSI&#9;JAVA://java.lang.Comparable&#10;StringB&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Stringb&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;obje&#9;PSI&#9;JAVA://java.lang.Object&#10;equals&#9;PSI&#9;JAVA://com.sun.org.apache.xpath.internal.operations.Equals&#10;ThreadPoolExecutor&#9;FILE&#9;jar://D:/JAVA/jdk/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;addWo&#9;PSI&#9;JAVA://com.sun.corba.se.spi.orbutil.threadpool.WorkQueue#addWork&#10;execute&#9;FILE&#9;jar://C:/Users/Zhong Changkang/.m2/repository/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.jar!/net/sf/jsqlparser/statement/execute/Execute.class&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;threadpo&#9;PSI&#9;JAVA://com.sun.corba.se.spi.orbutil.threadpool.ThreadPool" />
+    <property name="SearchEverywhereHistoryKey" value="sort&#9;FILE&#9;file://F:/java代码集合/DatabaseAndSort/DatabaseAndSort/src/model/Sort/sorttest.java&#10;str&#9;FILE&#9;file://F:/java代码集合/DatabaseAndSort/DatabaseAndSort/src/model/Sort/stringSolution.java&#10;so&#9;FILE&#9;file://F:/java代码集合/DatabaseAndSort/DatabaseAndSort/src/model/Sort/sorttest.java&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Has&#9;FILE&#9;jar://D:/JAVA/jdk/src.zip!/java/util/HashMap.java&#10;Concurre&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;TreeM&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Compar&#9;FILE&#9;jar://D:/JAVA/jdk/jre/lib/rt.jar!/java/util/Comparator.class&#10;Comparable&#9;PSI&#9;JAVA://java.lang.Comparable&#10;StringB&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Stringb&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;obje&#9;PSI&#9;JAVA://java.lang.Object&#10;equals&#9;PSI&#9;JAVA://com.sun.org.apache.xpath.internal.operations.Equals&#10;ThreadPoolExecutor&#9;FILE&#9;jar://D:/JAVA/jdk/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;addWo&#9;PSI&#9;JAVA://com.sun.corba.se.spi.orbutil.threadpool.WorkQueue#addWork&#10;execute&#9;FILE&#9;jar://C:/Users/Zhong Changkang/.m2/repository/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.jar!/net/sf/jsqlparser/statement/execute/Execute.class&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;threadpo&#9;PSI&#9;JAVA://com.sun.corba.se.spi.orbutil.threadpool.ThreadPool" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568962431509" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569120563738" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -600,9 +490,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Graph">
-    <configuration name="ConsumerAndProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConsumerAndProducer.ConsumerAndProducer" />
+  <component name="RunManager" selected="Application.solution">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.LRUCache.Main" />
+      <module name="DatabaseAndSort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.LRUCache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerAndProducer.Main" />
       <module name="DatabaseAndSort" />
       <extension name="coverage">
         <pattern>
@@ -614,12 +517,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.Graph" />
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shangtang.solution" />
       <module name="DatabaseAndSort" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graph.*" />
+          <option name="PATTERN" value="shangtang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -627,25 +530,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.Main" />
+    <configuration name="sorttest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.Sort.sorttest" />
       <module name="DatabaseAndSort" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConsumerAndProducer.ProducerAndConsumer" />
-      <module name="DatabaseAndSort" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ConsumerAndProducer.*" />
+          <option name="PATTERN" value="model.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -699,19 +589,19 @@
       <item itemvalue="Spring Boot.MallPortalApplication" />
       <item itemvalue="Spring Boot.MallSearchApplication" />
       <item itemvalue="Spring Boot.MallAdminApplication" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.stringSolution" />
-      <item itemvalue="Application.ConsumerAndProducer" />
-      <item itemvalue="Application.ProducerAndConsumer" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Graph" />
+      <item itemvalue="Application.sorttest" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Graph" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ProducerAndConsumer" />
-        <item itemvalue="Application.ConsumerAndProducer" />
+        <item itemvalue="Application.solution" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.sorttest" />
         <item itemvalue="Application.stringSolution" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -804,7 +694,7 @@
       <workItem from="1568553161753" duration="389000" />
       <workItem from="1568624353415" duration="5273000" />
       <workItem from="1568685022173" duration="1654000" />
-      <workItem from="1568772255647" duration="50762000" />
+      <workItem from="1568772255647" duration="65367000" />
     </task>
     <task id="LOCAL-00001" summary="419">
       <created>1555658165734</created>
@@ -829,7 +719,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="360761000" />
+    <option name="totallyTimeSpent" value="375366000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -844,8 +734,8 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46523178" visible="true" weight="0.19044006" />
-      <window_info id="Structure" order="1" sideWeight="0.5347682" side_tool="true" weight="0.19044006" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6357616" visible="true" weight="0.19195752" />
+      <window_info id="Structure" order="1" sideWeight="0.3642384" side_tool="true" weight="0.19195752" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -854,7 +744,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32781458" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969651" weight="0.21688741" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969651" weight="0.29966888" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37417218" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -940,48 +830,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/meituan/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toutiao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toutiao/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toutiao/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/toutiao/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ByteDance/solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ByteDance/solution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1044,13 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/LRUCache/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/function.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1101,16 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/allSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1179,20 +1010,6 @@
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#161#162#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Sort/stringSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="195" column="24" lean-forward="true" selection-start-line="195" selection-start-column="24" selection-end-line="195" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Sort/sorttest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1168">
-          <caret line="117" column="17" lean-forward="true" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1288,27 +1105,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/LRUCache/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/LRUCache/LRU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/ConsumerAndProducer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1345,11 +1141,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        <state relative-caret-position="292">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/allSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="582" column="25" selection-start-line="582" selection-start-column="25" selection-end-line="582" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/LRUCache/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/LRUCache/LRU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/LRUCache/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/LRUCache/LRUImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Sort/stringSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Sort/sorttest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConsumerAndProducer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shangtang/solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
