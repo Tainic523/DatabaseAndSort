@@ -2,102 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11df0147-b8b3-4ed9-842f-106807e7e7e5" name="Default Changelist" comment="915">
-      <change afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/LRUCache/LRU$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/LRUCache/LRU$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/LRUCache/LRUCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/LRUCache/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ByteDance/solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/Main$StackWithMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/ConsumerAndProducer/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/HuaWeiplus/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/HuaWeiplus/solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/HuaWeiplus/solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/WeBank/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/bilibili/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/bilibili/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/function$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/function.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/huawei/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/huya/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/iqiyi/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/jd/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/jd/solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/leetcode/solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/meituan/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/meituan/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/DynamicProxy/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/DynamicProxy/HelloWorldImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/DynamicProxy/JdkProxyExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/DynamicProxy/solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/LRU$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/LRU$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/LRU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/LRUCache/LRU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/LRUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/LRUImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/LRUCache/LRUImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/LRUCache/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Sort/baidu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Sort/solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Sort/sorttest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/Sort/sorttest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/model/Sort/stringSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DatabaseAndSort/Sort/stringSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/shangtang/solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/toutiao/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/toutiao/Main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/toutiao/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/toutiao/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/xiecheng/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/xiecheng/solutionss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/yuanfudao/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DatabaseAndSort/yuanfudao/Main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ByteDance/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ByteDance/solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ByteDance/solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ByteDance/solution3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ByteDance/solution4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiplus/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiplus/solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiplus/solution3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadPool/CountDownlatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadPool/Cyclicbarrier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeBank/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bilibili/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bilibili/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/function.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/huawei/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/huya/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iqiyi/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jd/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jd/solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/meituan/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/meituan/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/DynamicProxy/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/DynamicProxy/HelloWorldImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/DynamicProxy/JdkProxyExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/DynamicProxy/solution3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/LRUCache/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LRUCache/LRU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/LRUCache/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LRUCache/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/LRUCache/LRUImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LRUCache/LRUImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/LRUCache/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LRUCache/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Sort/baidu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Sort/solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Sort/sorttest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/sorttest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Sort/stringSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/stringSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toutiao/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toutiao/Main1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toutiao/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toutiao/Main3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xiecheng/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xiecheng/solutionss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yuanfudao/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yuanfudao/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="F:/xiangmu/mall/target/" />
@@ -276,7 +181,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="19347" />
+          <entry key="java" value="19348" />
           <entry key="md" value="15" />
           <entry key="sql" value="30" />
           <entry key="txt" value="11" />
@@ -284,7 +189,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19347" />
+          <entry key="JAVA" value="19348" />
           <entry key="Markdown" value="15" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Scratch" value="30" />
@@ -361,20 +266,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Solutions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="-900">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -388,20 +284,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-328">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="123">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -423,7 +310,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DynamicProxy/girl.java" />
         <option value="$PROJECT_DIR$/src/DynamicProxy/Girl.java" />
         <option value="$PROJECT_DIR$/src/DynamicProxy/girlProxy.java" />
         <option value="$PROJECT_DIR$/src/DynamicProxy/GirlProxy.java" />
@@ -474,6 +360,7 @@
         <option value="$PROJECT_DIR$/src/model/Main.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/ThreadPool/CountDownlatch.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Solution.java" />
       </list>
     </option>
   </component>
@@ -489,7 +376,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-54" />
     <option name="y" value="55" />
     <option name="width" value="1127" />
@@ -610,7 +497,7 @@
     <property name="SearchEverywhereHistoryKey" value="sort&#9;FILE&#9;file://F:/java代码集合/DatabaseAndSort/DatabaseAndSort/src/model/Sort/sorttest.java&#10;str&#9;FILE&#9;file://F:/java代码集合/DatabaseAndSort/DatabaseAndSort/src/model/Sort/stringSolution.java&#10;so&#9;FILE&#9;file://F:/java代码集合/DatabaseAndSort/DatabaseAndSort/src/model/Sort/sorttest.java&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Has&#9;FILE&#9;jar://D:/JAVA/jdk/src.zip!/java/util/HashMap.java&#10;Concurre&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;TreeM&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Compar&#9;FILE&#9;jar://D:/JAVA/jdk/jre/lib/rt.jar!/java/util/Comparator.class&#10;Comparable&#9;PSI&#9;JAVA://java.lang.Comparable&#10;StringB&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;Stringb&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;obje&#9;PSI&#9;JAVA://java.lang.Object&#10;equals&#9;PSI&#9;JAVA://com.sun.org.apache.xpath.internal.operations.Equals&#10;ThreadPoolExecutor&#9;FILE&#9;jar://D:/JAVA/jdk/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;addWo&#9;PSI&#9;JAVA://com.sun.corba.se.spi.orbutil.threadpool.WorkQueue#addWork&#10;execute&#9;FILE&#9;jar://C:/Users/Zhong Changkang/.m2/repository/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.jar!/net/sf/jsqlparser/statement/execute/Execute.class&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;threadpo&#9;PSI&#9;JAVA://com.sun.corba.se.spi.orbutil.threadpool.ThreadPool" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576724061896" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576724535220" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -754,7 +641,7 @@
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_ANONYMOUS,SHOW_NON_PUBLIC,SHOW_FIELDS" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_ANONYMOUS,SHOW_PROPERTIES,SHOW_FIELDS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -847,7 +734,7 @@
       <workItem from="1570890934924" duration="625000" />
       <workItem from="1576199453491" duration="13000" />
       <workItem from="1576720955890" duration="427000" />
-      <workItem from="1576721556806" duration="2351000" />
+      <workItem from="1576721556806" duration="2927000" />
     </task>
     <task id="LOCAL-00001" summary="419">
       <created>1555658165734</created>
@@ -872,7 +759,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="379897000" />
+    <option name="totallyTimeSpent" value="380473000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -885,10 +772,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6589404" visible="true" weight="0.28072837" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.3410596" side_tool="true" visible="true" weight="0.28072837" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65876776" visible="true" weight="0.28072837" />
+      <window_info id="Structure" order="1" sideWeight="0.34123224" side_tool="true" visible="true" weight="0.28072837" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -904,7 +790,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.30132452" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30132452" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007587" side_tool="true" weight="0.5149007" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32615894" />
       <window_info anchor="bottom" id="Spring" order="12" />
@@ -1286,15 +1172,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-328">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Solutions.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1305,17 +1184,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/Solutions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="-900">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>
